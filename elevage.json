@@ -1,0 +1,12 @@
+{
+    "Animal": {
+        "id": "here",
+        "sexe": "here",
+        "espece": "here"
+    },
+    "Voiture": {
+        "matriculation": "here",
+        "couleur": "rose",
+        "marque": "here"
+    }
+}
